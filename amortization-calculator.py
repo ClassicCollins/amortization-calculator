@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 # Streamlit app setup
-st.title("Amortization Calculator")
+st.title("Collins Amortization Calculator")
 st.write("""
 This tool helps you calculate the amortization schedule of a loan by providing the details for each monthly payment.
 The schedule includes the principal, interest applied, and unpaid principal balance for every month.
