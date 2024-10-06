@@ -60,7 +60,6 @@ Analyze loan repayment schedules, Calculates fixed monthly payments, principal p
       </ul>
     </li>
     <li>
-      <a href="#emzycash-portfolio">EmzyCash Portfolio</a>
       <ul>
         <li><a href="#installation-steps">Installation Steps</a></li>
       </ul>
@@ -131,15 +130,7 @@ Here’s an example of the output schedule:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- EMZYCASH PORTFOLIO -->
-## EmzyCash Portfolio
-`The Emzycash Portfolio` allows users to create a diversified investment portfolio. Users can:
-* Track multiple assets including stocks and options.
-* Access historical data for performance comparisons.
-* Use visual charts to analyze portfolio growth over time.
-* Receive insights into your portfolio’s risk exposure, allocation, and performance relative to market benchmarks.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- INSTALLATION -->
 
 ### Installation Steps
 
