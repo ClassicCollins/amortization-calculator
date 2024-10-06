@@ -28,7 +28,7 @@ Analyze loan repayment schedules, Calculates fixed monthly payments, principal p
   
   </a>
 
-<h3 align="center">Amortization Calculator Web App</h3>
+<h3 align="center">Collins Amortization Calculator Web App</h3>
 
   <p align="center">
     A Platform for Quantitative Analyses of Financial Instruments!
@@ -36,7 +36,7 @@ Analyze loan repayment schedules, Calculates fixed monthly payments, principal p
     <a href="https://github.com/ClassicCollins/amortization-calculator"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
-    <a href="https://emzycash.streamlitapp.com">Use The App</a>
+    <a href="https://collins-amortization-calculator.streamlit.app/">Use The App</a>
     ·
     <a href="https://github.com/ClassicCollins/structural-vs-predictive-models/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
@@ -158,7 +158,7 @@ Here’s an example of the output schedule:
 
 Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
-Project Link: [Amortization calculator](https://www.datascienceportfol.io/collinsugwuozor/projects/1)
+Project Link: [Collins Amortization Calculator](https://collins-amortization-calculator.streamlit.app/)
 
 Don't forget to give the project a star! Thanks again!
 
