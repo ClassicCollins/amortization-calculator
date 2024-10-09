@@ -82,8 +82,7 @@ This is a simple Amortization Calculator built using Streamlit. The calculator c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Project Goal
-`The goal` is to ignite investors' passion for financial assets and take them through the rigorous road of investment
-in order to make profitable returns at minimal risk.
+`The goal` of this project is to accurately track and display the progression of loan payments over time, providing a clear breakdown of principal and interest payments as the loan is amortized
 
 ### Technology Stack
 * `Frontend:` Streamlit
